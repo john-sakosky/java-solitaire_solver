@@ -1,0 +1,2 @@
+Build 100
+-Corrected spelling of method getVisibility() in Cards.java
